@@ -4,5 +4,7 @@
     <string name="app_name">CountdownTimer</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="NewGameBtn">New Game</string>
+    <string name="RulesBtn">Rules</string>
 
 </resources>
